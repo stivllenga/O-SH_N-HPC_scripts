@@ -1,4 +1,10 @@
 import math
+print("§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§")
+print("§                  Stiv Llenga                   §")
+print("§           PhD student of CCC group             §")
+print("§  Heidelbeg Institute for Theoretical Sciences  §")
+print("§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§")
+print()
 print("This program is created to find the equation of the molecular plane, mainly used to check the BFPI values.")
 print()
 print("Please follow each instruction rigorously...")
