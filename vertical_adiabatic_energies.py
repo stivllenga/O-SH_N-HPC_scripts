@@ -1,3 +1,10 @@
+print("§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§")
+print("§                 Stiv Llenga                    §")
+print("§          PhD student of CCC group              §")
+print("§  Heidelbeg Institute for Theoretical Sciences  §")
+print("§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§")
+print()
+print()
 print("Hello User, I can help calculating the Adiabatic and Vertical Ionization Energies and Electron Affinities:")
 print()
 coef_eV = 27.2114
